@@ -713,7 +713,8 @@ swiper-container {
     display: flex;
     flex-direction: row;
     justify-content: left;
-    gap: 10px;
+    gap:30px;
+    margin-top: 10px;
 }
 /* footer end */
 
