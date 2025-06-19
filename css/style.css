@@ -828,6 +828,12 @@ swiper-container {
     grid-template-columns: repeat(1,1fr);
     text-align: center;
     height: auto;
+    width: 100%;
+    gap: 30px;
+}
+.tab-container .tab-logo
+{
+    display: none;
 }
 .tab-container .btsearch
 {
@@ -836,7 +842,7 @@ swiper-container {
 .tabs
 {
     position: unset ; 
-    padding-top:50px ;
+    padding:30px ;
 }
 .carts
 {
