@@ -416,7 +416,7 @@ header
     flex-direction: column;
     height: auto;
     padding: 100px 150px;
-    gap: 40px;
+    gap: 50px;
     align-items: center;
 
 }
@@ -450,6 +450,7 @@ header
 {
     width: 100%;
     object-fit: cover;
+    border-radius: 10px 10px 0px 0px;
 }
 .cart-container .cart-con
 {
@@ -520,6 +521,16 @@ header
     flex-direction: row;
     justify-content: right;
     gap: 10px;
+} 
+.cart-container .cart-contact .share-icon div
+{
+    width: 30px;
+    height: 30px;
+    background-color: #EDEFF6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
 } 
 .cart-container .cart-contact .share-icon i
 {

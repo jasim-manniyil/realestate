@@ -146,6 +146,51 @@
 {
     color: #4A60A1   ;
 }
+
+
+/* slider elements */
+.slider-elements
+{
+    display: flex;
+    color: #4A60A1;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.slider-elements div
+{
+    width: 35px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EDEFF6;
+    border-radius: 5px;
+}
+.slider-elements .s-e-c
+{
+    background-color: #4A60A1;
+}
+.slider-elements p
+{
+    color: #4A60A1;
+}
+.slider-elements .s-e-c i
+{
+    color: white;
+}
+.slider-elements .s-e-c p
+{
+    color: white;
+    font-weight: 500;
+}
+.slider-elements i
+{
+    color: #4A60A1;
+}
+/* slider end */
+
 /* 
 propertice end */
 /* footer */

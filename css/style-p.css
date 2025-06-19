@@ -26,6 +26,10 @@ body
     padding: 0;
     font-family: "Poppins", sans-serif;
 }
+i
+{
+    font-family: unset;
+}
 .content-d
 {
     color: black;
