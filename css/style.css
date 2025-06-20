@@ -656,7 +656,10 @@ swiper-container {
 {
     background: #47539b;
 }
-
+.swiper-button-prev
+{
+    background: #47539b;
+}
   .swiper-button-prev,
   .swiper-button-next {
     border: none;
@@ -763,6 +766,8 @@ swiper-container {
     align-items: center;
 }
 /* footer end */
+
+
 
 @media (max-width:1250px) 
 {
