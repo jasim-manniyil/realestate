@@ -850,6 +850,10 @@ swiper-container {
 {
     padding: 28px 30px;
 }
+.content
+{
+    width: 80%;
+}
 .tab-container
 {
     grid-template-columns: repeat(2,1fr);
@@ -875,7 +879,7 @@ swiper-container {
     .area 
 {
     padding: 60px 30px;
-    margin-top: 140px;
+    margin-top: 120px;
 }
 .area2 
 {
@@ -924,6 +928,17 @@ swiper-container {
 .bg
 {
     padding: 10px 30px;
+}
+.bg h2
+{
+    margin: 0;
+    font-size: 30px;
+}
+.bg p
+{
+    margin: 0;
+    font-size:16px ;
+    font-weight: 200;
 }
 .foot
 {
