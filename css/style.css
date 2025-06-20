@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-    transition: ease-in-out 0.5s;
+    transition: ease-in-out 1s;
 }
 
 * {
@@ -837,7 +837,10 @@ swiper-container {
 {
     padding: 100px 100px;
 }
-
+.sliders
+{
+    padding: 30px 0px 30px 30px;
+}
 }
 
 @media (max-width:1080px) {
@@ -858,6 +861,10 @@ swiper-container {
 {
     grid-template-columns: repeat(2,1fr);
     height: auto;
+}
+.sliders
+{
+    padding: 30px 0px 30px 30px;
 }
 .social-foot
 {
@@ -923,7 +930,7 @@ swiper-container {
 }
 .sliders
 {
-    padding: 10px 0px;
+    padding: 30px 0px 30px 30px;
 }
 .bg
 {

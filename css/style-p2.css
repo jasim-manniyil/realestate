@@ -247,6 +247,7 @@ propertice end */
     bottom: 0%;
     width: 300px;
     right: -30px;
+    bottom: -40px;
 }
 .p-sect2 .p-left .mis
 {
@@ -254,5 +255,6 @@ propertice end */
     bottom: 0%;
     width: 300px;
     left: -30px;
+    bottom: -40px;
 }
 }
