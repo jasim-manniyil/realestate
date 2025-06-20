@@ -171,7 +171,7 @@ header
     left: 0;
     right: 0;
     margin: 0 auto;
-    bottom: -64px;
+    transform: translateY(-50%);
 }
 .tab-container
 {
@@ -886,14 +886,14 @@ swiper-container {
     padding: 80px 30px;
     gap: 20px;
 }
-.tabs {
-    bottom: -198px;
+.tabs
+{
+    height: auto;
 }
 .tab-container
 {
     grid-template-columns: repeat(1,1fr);
     text-align: center;
-    height: 340px;
     width: 100%;
     gap: 30px;
 }
